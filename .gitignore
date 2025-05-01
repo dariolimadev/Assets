@@ -1,0 +1,13 @@
+Images
+Prefabs
+Scenes
+Settings
+Tilemaps
+
+*.meta
+*.png
+*.zip
+*.unity
+*.asset
+*.py
+*.inputactions
